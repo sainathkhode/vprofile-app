@@ -1,4 +1,4 @@
-# Visualpathit VProfile Webapp
+## Visualpathit VProfile Webapp
 
 A Java-based web application for profile management, built with Spring MVC, Spring Security, Spring Data JPA, Hibernate, and Jakarta EE technologies.
 
@@ -92,6 +92,4 @@ The `ci.yml` workflow runs on GitHub Actions and includes:
 - Ensure required secrets and variables are available for GitHub Actions: `SONAR_TOKEN`, `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `HELM_REPO_USER`, `GITOPS_PAT`.
 - `AWS_REGION`, `ECR_REPOSITORY`, `HELM_REPO_NAME`, and `SONAR_HOST_URL` are supplied via repository variables.
 
-## License
-
-This repository does not include a license file. Add a license if you intend to publish or share this project publicly.
+##### completed
